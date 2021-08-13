@@ -1,0 +1,10 @@
+.container {
+    width: 80%;
+    border: 2px solid black;
+}
+.container .box {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    background-color: lightgray;
+}
